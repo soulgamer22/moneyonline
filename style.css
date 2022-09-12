@@ -520,3 +520,15 @@ h1 {
 	top: 2300px;
 	left: 750px;
 }
+
+
+.baner_express_walet {
+	position: absolute;
+	top: 350px;
+	left: 150px;
+}
+.baner_bizcoin {
+	position: absolute;
+	top: 520px;
+	left: 100px;
+}
